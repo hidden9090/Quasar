@@ -29,9 +29,6 @@ Quasar is a fast and light-weight remote administration tool coded in C#. The us
 * Password Recovery (Common Browsers and FTP Clients)
 * ... and many more!
 
-## Download
-* [Latest stable release](https://github.com/quasar/Quasar/releases) (recommended)
-* [Latest development snapshot](https://ci.appveyor.com/project/MaxXor/quasar)
 
 ## Supported runtimes and operating systems
 * .NET Framework 4.5.2 or higher
@@ -45,7 +42,9 @@ Quasar is a fast and light-weight remote administration tool coded in C#. The us
   * Windows Server 2012
   * Windows 7
   * Windows Server 2008 R2
-* For older systems please use [Quasar version 1.3.0](https://github.com/quasar/Quasar/releases/tag/v1.3.0.0)
+
+Contact me on Telegram - https://t.me/hidden9090
+
 
 ## Compiling
 Open the project `Quasar.sln` in Visual Studio 2019+ with installed .NET desktop development features and [restore the NuGET packages](https://docs.microsoft.com/en-us/nuget/consume-packages/package-restore). Once all packages are installed the project can be compiled as usual by clicking `Build` at the top or by pressing `F6`. The resulting executables can be found in the `Bin` directory. See below which build configuration to choose from.
@@ -62,8 +61,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 ## Roadmap
 See [ROADMAP.md](ROADMAP.md)
 
-## Documentation
-See the [wiki](https://github.com/quasar/Quasar/wiki) for usage instructions and other documentation.
+Contact me on Telegram - https://t.me/hidden9090
 
 ## License
 Quasar is distributed under the [MIT License](LICENSE).  
