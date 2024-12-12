@@ -1,14 +1,10 @@
 # Quasar
 
-[![Build status](https://ci.appveyor.com/api/projects/status/5857hfy6r1ltb5f2?svg=true)](https://ci.appveyor.com/project/MaxXor/quasar)
-[![Downloads](https://img.shields.io/github/downloads/quasar/Quasar/total.svg)](https://github.com/quasar/Quasar/releases)
-[![License](https://img.shields.io/github/license/quasar/Quasar.svg)](LICENSE)
 
 **Free, Open-Source Remote Administration Tool for Windows**
 
 Quasar is a fast and light-weight remote administration tool coded in C#. The usage ranges from user support through day-to-day administrative work to employee monitoring. Providing high stability and an easy-to-use user interface, Quasar is the perfect remote administration solution for you.
 
-Please check out the [Getting Started](https://github.com/quasar/Quasar/wiki/Getting-Started) guide.
 
 ## Screenshots
 
@@ -37,9 +33,7 @@ Please check out the [Getting Started](https://github.com/quasar/Quasar/wiki/Get
 * Password Recovery (Common Browsers and FTP Clients)
 * ... and many more!
 
-## Download
-* [Latest stable release](https://github.com/quasar/Quasar/releases) (recommended)
-* [Latest development snapshot](https://ci.appveyor.com/project/MaxXor/quasar)
+
 
 ## Supported runtimes and operating systems
 * .NET Framework 4.5.2 or higher
@@ -70,12 +64,11 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 ## Roadmap
 See [ROADMAP.md](ROADMAP.md)
 
-## Documentation
-See the [wiki](https://github.com/quasar/Quasar/wiki) for usage instructions and other documentation.
+
 
 ## License
 Quasar is distributed under the [MIT License](LICENSE).  
 Third-party licenses are located [here](Licenses).
 
 ## Thank you!
-I really appreciate all kinds of feedback and contributions. Thanks for using and supporting Quasar!
+Contact me on Telegram -  https://t.me/hidden9090
