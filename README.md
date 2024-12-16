@@ -70,3 +70,5 @@ Third-party licenses are located [here](Licenses).
 
 ## Thank you!
 Contact me on Telegram - https://t.me/hidden9090
+
+https://t.me/+1tDzjSCGDDs0ODA9
