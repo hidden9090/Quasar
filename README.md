@@ -9,6 +9,10 @@
 Quasar is a fast and light-weight remote administration tool coded in C#. The usage ranges from user support through day-to-day administrative work to employee monitoring. Providing high stability and an easy-to-use user interface, Quasar is the perfect remote administration solution for you.
 
 CONTACT :- MY TELEGRAM - https://t.me/hidden9090   
+
+If not replying you than  I'm busy in that case , please 
+Text my team 
+(https://t.me/hidden9090team)
                    
 
 ## Features
@@ -46,6 +50,10 @@ CONTACT :- MY TELEGRAM - https://t.me/hidden9090
 
 Contact me on Telegram - https://t.me/hidden9090
 
+If not replying you than  I'm busy in that case , please 
+Text my team 
+(https://t.me/hidden9090team)
+
 
 ## Compiling
 Open the project `Quasar.sln` in Visual Studio 2019+ with installed .NET desktop development features and [restore the NuGET packages](https://docs.microsoft.com/en-us/nuget/consume-packages/package-restore). Once all packages are installed the project can be compiled as usual by clicking `Build` at the top or by pressing `F6`. The resulting executables can be found in the `Bin` directory. See below which build configuration to choose from.
@@ -70,5 +78,9 @@ Third-party licenses are located [here](Licenses).
 
 ## Thank you!
 Contact me on Telegram - https://t.me/hidden9090
+
+If not replying you than  I'm busy in that case , please 
+Text my team 
+(https://t.me/hidden9090team)
 
 https://t.me/+1tDzjSCGDDs0ODA9
