@@ -34,6 +34,7 @@ Text my team
 * Password Recovery (Common Browsers and FTP Clients)
 * ... and many more!
 
+ **First see free demo than purchase**                                                                                  
 
 ## Supported runtimes and operating systems
 * .NET Framework 4.5.2 or higher
